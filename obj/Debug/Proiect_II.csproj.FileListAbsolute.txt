@@ -1,0 +1,42 @@
+D:\Fac\An 3\sem 2\II\Proiect_II\bin\Debug\Proiect_II.exe.config
+D:\Fac\An 3\sem 2\II\Proiect_II\bin\Debug\Proiect_II.exe
+D:\Fac\An 3\sem 2\II\Proiect_II\bin\Debug\Proiect_II.pdb
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.csproj.AssemblyReference.cache
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FormLogin.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.Properties.Resources.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.csproj.GenerateResource.cache
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.csproj.CoreCompileInputs.cache
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.exe
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.pdb
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FormManager.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FormUser.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FormCreateAccount.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FUserControlAbout.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.UserControlReservation.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.UserControlPet.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.FormChangePassword.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.ManagerControlOwner.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.UserControlIntrebari.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.ManagerControlDashboard.resources
+D:\Fac\An 3\sem 2\II\Proiect_II\obj\Debug\Proiect_II.ManagerControlPet.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\bin\Debug\Proiect_II.exe.config
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\bin\Debug\Proiect_II.exe
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\bin\Debug\Proiect_II.pdb
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.csproj.AssemblyReference.cache
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FormChangePassword.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FormCreateAccount.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FormManager.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FormLogin.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FormUser.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.ManagerControlDashboard.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.ManagerControlPet.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.ManagerControlOwner.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.Properties.Resources.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.UserControlIntrebari.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.FUserControlAbout.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.UserControlPet.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.UserControlReservation.resources
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.csproj.GenerateResource.cache
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.csproj.CoreCompileInputs.cache
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.exe
+D:\Fac\An 3\sem 2\II\Proiect_II - BUN\obj\Debug\Proiect_II.pdb
